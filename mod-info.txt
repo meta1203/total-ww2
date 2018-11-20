@@ -1,0 +1,7 @@
+[mod]
+title: Total WW2
+description: A total WW2 conversion mod.
+
+tags: mod, content, starting units, units, unit, buildings, turrets, Starting-units, infantry, weapon, experimental
+
+thumbnail: mod-thumbnail.png
